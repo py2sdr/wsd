@@ -1,0 +1,2 @@
+# wsd
+Weak Signal Daemon
